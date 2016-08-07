@@ -1,3 +1,9 @@
+----
+-layout: page
+-title: About
+-permalink: /about/
+----
+
 Informationen über dieses Projekt / What is this project about (Information in German): 
 
 https://github.com/python-forum-de/python-forum-de.github.io/wiki
