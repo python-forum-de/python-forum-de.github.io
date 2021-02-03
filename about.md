@@ -1,8 +1,8 @@
-----
--layout: page
--title: About
--permalink: /about/
-----
+---
+layout: page
+title: About
+permalink: /about/
+---
 
 Informationen über dieses Projekt / What is this project about (Information in German): 
 
